@@ -1,0 +1,17 @@
+Discarding file: Edit2.txt
+Discarding file: Edit2h.txt
+Discarding file: Edit2v.txt
+Discarding file: kayit.txt
+Discarding file: serkanh.txt
+Discarding file: serkanv.txt
+Discarding file: yukarih.txt
+Discarding file: yukarıh.txt
+Discarding file: örnek1.txt
+Discarding file: örnek2.txt
+Discarding file: örnek3.txt
+Discarding file: örnek4.txt
+Discarding file: örnek5.txt
+Discarding file: örnek6.txt
+Discarding file: örnek7.txt
+Discarding file: örnek8.txt
+Discarding file: örnek9.txt
